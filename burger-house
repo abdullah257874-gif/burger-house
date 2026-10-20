@@ -1,0 +1,6 @@
+  "endpoint": "/repos/abdullah257874-gif/burger-house",
+  "page": 1,
+  "perPage": 100,
+  "repo": "abdullah257874-gif/burger-house",
+  "task": "Check the repository metadata to confirm the project exists and is accessible before suggesting next steps",
+  "userQuery": "Verify the Burger House repository exists and is ready for local development."
